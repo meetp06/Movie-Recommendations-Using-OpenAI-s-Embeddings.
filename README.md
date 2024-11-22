@@ -35,8 +35,7 @@ The recommendation system has various applications, such as:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/meetp06/movie-recommendation-system.git
-   cd movie-recommendation-system
+   git clone https://github.com/meetp06/Movie-Recommendations-Using-OpenAI-s-Embeddings..git
    ```
 
 2. Install the required libraries:
@@ -139,4 +138,3 @@ This project is licensed under the MIT License.
 ## Acknowledgments
 - OpenAI for providing powerful embedding models.
 - Hugging Face for hosting the `AIatMongoDB/embedded_movies` dataset.
-```
