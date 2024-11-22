@@ -1,6 +1,3 @@
-Here’s a **README.md** file for your project:
-
-```markdown
 # Movie Recommendations Using OpenAI's Embeddings
 
 ## Overview
@@ -38,7 +35,7 @@ The recommendation system has various applications, such as:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/movie-recommendation-system.git
+   git clone https://github.com/meetp06/movie-recommendation-system.git
    cd movie-recommendation-system
    ```
 
@@ -143,5 +140,3 @@ This project is licensed under the MIT License.
 - OpenAI for providing powerful embedding models.
 - Hugging Face for hosting the `AIatMongoDB/embedded_movies` dataset.
 ```
-
-Replace `"your-username"` with your GitHub username and adjust any details as needed. Let me know if you want further customization!
